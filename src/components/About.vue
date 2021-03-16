@@ -33,6 +33,7 @@ export default {
 .about{
   margin: 1em 5%;
   color: $text_main;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
 
   h3{  
     position: relative;
