@@ -17,6 +17,15 @@
       <router-link to="/">link3</router-link>
       <router-link to="/">link4</router-link>
     </div>
+
+    <div class="index">
+      <h2>- Others -</h2>
+      <h3>プログラム以外の作品</h3>
+    </div>
+    <div class="links">
+      <router-link to="/">link5</router-link>
+      <router-link to="/">link6</router-link>
+    </div>
   </div>
 </template>
 
