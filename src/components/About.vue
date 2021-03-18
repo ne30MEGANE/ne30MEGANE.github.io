@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h3>About Me</h3>
+    <h2>About Me</h2>
     <div class="contents">
       <div class="text">
         <p>
@@ -35,7 +35,7 @@ export default {
   color: $text_main;
   font-family: 'M PLUS Rounded 1c', sans-serif;
 
-  h3{  
+  h2{  
     position: relative;
     display: flex;
     align-items: center;

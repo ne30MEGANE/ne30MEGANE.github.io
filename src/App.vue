@@ -32,7 +32,10 @@ export default {
 <style lang="scss" scoped>
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500&family=Noto+Sans+JP:wght@400;500&family=Potta+One&family=Roboto+Condensed&display=swap');
 @import "stylesheets/variables";
-#body{
-  margin: 2em 0;
+#app{
+  background: repeating-linear-gradient(45deg,$first_color_a 0,$first_color_a 5px,#fff 5px,#fff 10px);
+  #body{
+    margin: 2em 0;
+  }
 }
 </style>

@@ -5,8 +5,9 @@
       <h3>開発/制作・運営に関わった作品</h3>
     </div>
     <div class="links">
-      <router-link to="/otofuda">link1</router-link>
-      <router-link to="/mugimusya">link2</router-link>
+      <router-link to="/otofuda">対戦型音楽カードゲーム「音札」</router-link>
+      <router-link to="/mugimusya">オリジナルVTuber「天ノ葉つむぎ」「武者丸」</router-link>
+      <router-link to="/">サークル部員交流・情報発信サイト「専修大学電子計算機研究会 公式サイト」</router-link>
     </div>
 
     <div class="index">
@@ -14,8 +15,13 @@
       <h3>個人で制作した作品</h3>
     </div>
     <div class="links">
-      <router-link to="/">link3</router-link>
-      <router-link to="/">link4</router-link>
+      <router-link to="/">脱出ゲーム「RoomEscape」</router-link>
+      <router-link to="/">タイピングゲーム「ガバタイピングゲーム」</router-link>
+      <router-link to="/">模擬ECサイト「ホビーショップNS」</router-link>
+      <router-link to="/">Webアプリケーション「ENST!! Song Catalog」</router-link>
+      <router-link to="/">ラインエディタ「ED」</router-link>
+      <router-link to="/">自作言語「Sunflower」</router-link>
+      <router-link to="/">CSSフレームワーク「Glasses Frame」</router-link>
     </div>
 
     <div class="index">
@@ -23,8 +29,7 @@
       <h3>プログラム以外の作品</h3>
     </div>
     <div class="links">
-      <router-link to="/">link5</router-link>
-      <router-link to="/">link6</router-link>
+      <router-link to="/">キャラクターデザイン「もこ」「めい」</router-link>
     </div>
   </div>
 </template>
@@ -93,6 +98,7 @@ export default {
     padding: 4em 2em 2em;
     border-radius: 30px;
     border: 8px dotted $third_color;
+    background-color: #ffffff80;
   }
 }
 </style>

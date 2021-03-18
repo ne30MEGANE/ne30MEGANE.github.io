@@ -30,7 +30,7 @@ a{
 .header{
   padding-top: 2em;
   padding-left: 1em;
-  padding-bottom: 0.5em;
+  padding-bottom: 1em;
   h1{
     display: inline-block;
     font-family: 'Audiowide', cursive;
