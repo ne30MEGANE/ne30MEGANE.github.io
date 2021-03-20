@@ -110,6 +110,7 @@ export default {
     background-color: $fourth_color;
     color: $text_main;
     padding: 1em 0;
+    margin-left: -6%;
     width: 40%;
     z-index: 2; // 手前
     h2{
@@ -144,8 +145,6 @@ export default {
     display: flex;
     flex-flow: row wrap;
     margin-top: -3em;
-    margin-right: 5%;
-    margin-left: 5%;
     margin-bottom: 1em;
     padding: 4em 2em 2em;
     border-radius: 30px;

@@ -35,7 +35,7 @@ export default {
 #app{
   background: repeating-linear-gradient(45deg,$first_color_a 0,$first_color_a 5px,#fff 5px,#fff 10px);
   #body{
-    margin: 2em 0;
+    margin: 2em 5%;
   }
 }
 </style>
