@@ -31,37 +31,37 @@
     <div class="links">
       <router-link to="/roomescape">
         <div class="item">
-          <b>RoomEscape</b><br>1年次「プログラミング演習1」最終課題・脱出ゲーム
+          <b>RoomEscape</b><br>1年次「プログラミング演習1」最終課題<br>脱出ゲーム
         </div>
       </router-link>
 
       <router-link to="/simpletyping">
         <div class="item">
-          <b>ガバタイピングゲーム</b><br>1年次「インターネット情報システム」授業内課題からの派生・タイピングゲーム
+          <b>ガバタイピングゲーム</b><br>1年次「インターネット情報システム」授業内課題からの派生<br>タイピングゲーム
         </div>
       </router-link>
 
       <router-link to="/hobbyshop">
         <div class="item">
-          <b>ホビーショップNS</b><br>2年次「ネットワークシステム応用演習」最終課題・模擬ECサイト
+          <b>ホビーショップNS</b><br>2年次「ネットワークシステム応用演習」最終課題<br>模擬ECサイト
         </div>
       </router-link>
       
       <router-link to="/enstsc">
         <div class="item">
-          <b>ENST!! Song Catalog</b><br>3年次「オブジェクト指向技術」最終課題・WEBサイト
+          <b>ENST!! Song Catalog</b><br>3年次「オブジェクト指向技術」最終課題<br>WEBサイト
         </div>
       </router-link>
       
       <router-link to="/edediter">
         <div class="item">
-          <b>EDエディタ</b><br>3年次「テキスト処理」授業内課題・クラシカルなラインエディタ
+          <b>EDエディタ</b><br>3年次「テキスト処理」授業内課題<br>クラシカルなラインエディタ
         </div>
       </router-link>
       
       <router-link to="/sunflower">
         <div class="item">
-          <b>Sunflower</b><br>3年次「テキスト処理」最終課題・プログラミング言語
+          <b>Sunflower</b><br>3年次「テキスト処理」最終課題<br>プログラミング言語
         </div>
       </router-link>
       
@@ -79,7 +79,7 @@
     <div class="links">
       <router-link to="/mokomei">
         <div class="item">
-          <b>もこ/めい</b><br>タイムラインから学んでツイートするTwitterボット・キャラクターデザイン
+          <b>もこ/めい</b><br>タイムラインから学んでツイートするTwitterボット<br>キャラクターデザイン
         </div>
       </router-link>
     </div>
