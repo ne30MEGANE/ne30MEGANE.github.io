@@ -14,7 +14,7 @@ import ED from '@/views/EDediter.vue'
 import Sunflower from '@/views/Sunflower.vue'
 import GlassesFrame from '@/views/GlassesFrame.vue'
 import Mokomei from '@/views/Mokomei.vue'
-
+import PerfectUnderstand from '@/views/PerfectUnderstand.vue'
 
 Vue.use(VueHead)
 Vue.use(VueRouter)
@@ -32,7 +32,8 @@ const router = new VueRouter({
     { path: '/edediter', component: ED },
     { path: '/sunflower', component: Sunflower },
     { path: '/glassesframe', component: GlassesFrame },
-    { path: '/mokomei', component: Mokomei }
+    { path: '/mokomei', component: Mokomei },
+    { path: '/perfectunderstand', component:PerfectUnderstand }
   ]
 })
 
