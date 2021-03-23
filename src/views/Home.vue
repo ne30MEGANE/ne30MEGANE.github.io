@@ -53,7 +53,7 @@
         </div>
       </router-link>
       
-      <router-link to="/edediter">
+      <!-- <router-link to="/edediter">
         <div class="item">
           <b>EDエディタ</b><br>3年次「テキスト処理」授業内課題<br>クラシカルなラインエディタ
         </div>
@@ -69,7 +69,7 @@
         <div class="item">
           <b>Glasses Frame</b><br>CSSフレームワーク
         </div>
-      </router-link>
+      </router-link> -->
     </div>
 
     <div class="index">
