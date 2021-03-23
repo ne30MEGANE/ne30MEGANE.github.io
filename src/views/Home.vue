@@ -7,17 +7,17 @@
     <div class="links">
       <router-link to="/otofuda">
         <div class="item">
-          <b>音札</b><br>対戦型音楽カードゲーム
+          <b>音札</b><br>音楽ゲームの対戦の常識を覆す、新感覚対戦型音楽カードゲーム
         </div>
       </router-link>
 
       <router-link to="/mugimusya">
         <div class="item">
-          <b>天ノ葉つむぎ/武者丸</b><br>オリジナルVTuberによる他メディア展開
+          <b>藤原プロジェクト2020</b><br>オリジナルVTuber天ノ葉つむぎ・武者丸による他メディア展開
         </div>
       </router-link>
 
-      <router-link to="/">
+      <router-link to="/edpsweb">
         <div class="item">
           <b>EDPS公式サイト</b><br>専修大学電子計算機研究会(EDPS)部員交流・情報発信サイト
         </div>
@@ -29,43 +29,43 @@
       <h3>個人で制作した作品</h3>
     </div>
     <div class="links">
-      <router-link to="/">
+      <router-link to="/roomescape">
         <div class="item">
-          <b>RoomEscape</b><br>脱出ゲーム
+          <b>RoomEscape</b><br>1年次「プログラミング演習1」最終課題・脱出ゲーム
         </div>
       </router-link>
 
-      <router-link to="/">
+      <router-link to="/simpletyping">
         <div class="item">
-          <b>ガバタイピングゲーム</b><br>タイピングゲーム
+          <b>ガバタイピングゲーム</b><br>1年次「インターネット情報システム」授業内課題からの派生・タイピングゲーム
         </div>
       </router-link>
 
-      <router-link to="/">
+      <router-link to="/hobbyshop">
         <div class="item">
-          <b>ホビーショップNS</b><br>模擬ECサイト
+          <b>ホビーショップNS</b><br>2年次「ネットワークシステム応用演習」最終課題・模擬ECサイト
         </div>
       </router-link>
       
-      <router-link to="/">
+      <router-link to="/enstsc">
         <div class="item">
-          <b>ENST!! Song Catalog</b><br>WEBサイト
+          <b>ENST!! Song Catalog</b><br>3年次「オブジェクト指向技術」最終課題・WEBサイト
         </div>
       </router-link>
       
-      <router-link to="/">
+      <router-link to="/edediter">
         <div class="item">
-          <b>EDエディタ</b><br>クラシカルなラインエディタ
+          <b>EDエディタ</b><br>3年次「テキスト処理」授業内課題・クラシカルなラインエディタ
         </div>
       </router-link>
       
-      <router-link to="/">
+      <router-link to="/sunflower">
         <div class="item">
-          <b>Sunflower</b><br>プログラミング言語
+          <b>Sunflower</b><br>3年次「テキスト処理」最終課題・プログラミング言語
         </div>
       </router-link>
       
-      <router-link to="/">
+      <router-link to="/glassesframe">
         <div class="item">
           <b>Glasses Frame</b><br>CSSフレームワーク
         </div>
@@ -77,9 +77,9 @@
       <h3>プログラム以外の作品</h3>
     </div>
     <div class="links">
-      <router-link to="/">
+      <router-link to="/mokomei">
         <div class="item">
-          <b>もこ/めい</b><br>キャラクターデザイン
+          <b>もこ/めい</b><br>タイムラインから学んでツイートするTwitterボット・キャラクターデザイン
         </div>
       </router-link>
     </div>
