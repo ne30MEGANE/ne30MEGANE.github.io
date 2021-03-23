@@ -37,6 +37,8 @@
      object-fit: cover;
   opacity: 0.5;
   border-radius: inherit;
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
 }
 
 .container > h3 {
