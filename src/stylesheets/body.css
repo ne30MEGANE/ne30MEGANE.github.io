@@ -125,6 +125,17 @@
   z-index: 2;
 }
 
+.container > .content p {
+  width: 100%;
+}
+
+.container > .content p > img {
+  display: block;
+  max-width: 70%;
+  border: solid 2px #BDBDBD;
+  border-radius: 10px;
+}
+
 .git {
   display: inline-block;
   height: 1.3em;

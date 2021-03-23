@@ -93,6 +93,15 @@
         z-index: 2;
       }
     }
+    p{
+      width: 100%;
+      >img{
+        display: block;
+        max-width: 70%;
+        border: solid 2px $border_color;
+        border-radius: 10px;
+      }
+    }
   }
 }
 
