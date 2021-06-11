@@ -33,7 +33,8 @@ const router = new VueRouter({
     { path: '/sunflower', component: Sunflower },
     { path: '/glassesframe', component: GlassesFrame },
     { path: '/mokomei', component: Mokomei },
-    { path: '/perfectunderstand', component:PerfectUnderstand }
+    { path: '/perfectunderstand', component:PerfectUnderstand },
+    { path: '/MMCatch', component: MMCatch }
   ]
 })
 
